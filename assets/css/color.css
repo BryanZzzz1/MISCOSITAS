@@ -1,0 +1,75 @@
+body{
+    
+    background-image: url(../background/galaxy.gif);    
+}
+h1{
+   text-align: center;
+   background-color: blue;
+   font-style: italic;
+   color: azure;
+}
+figure{
+    display: flex;
+    justify-content: center;
+}
+p{
+    background-color: black;
+    text-align: center;
+}
+.rex{
+    
+    text-align: center;
+    background: rgba(5, 7, 12, 0.75);
+    padding: 15px;
+    color: white;
+}
+.titulo{
+    text-align: center;
+    background-color:black;
+    
+}
+.elrex{
+    display: flex;
+    justify-content: center;
+    
+}
+.titulob{
+    background-color: black;
+}
+.bronto1{
+    display: flex;
+    justify-content: center;
+}
+.b{
+    background-color:black;
+    text-align: center;
+    color: aliceblue;
+}
+.bronto{
+    text-align: center;
+    background: rgba(5, 7, 12, 0.75);
+    
+    padding: 15px;
+
+}
+.caja1{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 15px;
+    color: aliceblue; 
+}
+.cajaa{
+    text-align: center;
+    padding: auto;
+}
+.cajarex{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: aqua;
+    padding: 15px;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+}
